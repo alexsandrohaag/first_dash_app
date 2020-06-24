@@ -7,6 +7,6 @@ Dash First App for evaluation
 - pip install pandas
 
 ## Running
-python3 <file>.py
+python3 filename.py
 
 
